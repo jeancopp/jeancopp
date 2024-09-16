@@ -11,7 +11,7 @@ Acredito na importância da aprendizagem contínua e estou sempre buscando manei
 
 Além da minha experiência técnica, gosto de compartilhar conhecimento com a equipe que estou envolvido, sempre que possível ajudando, fomentando cultura de colaboração e tentando acender a chama da curiosidade. 
 
-## Stack
+## Stack aqui presente:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeancopp&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contatos
@@ -20,5 +20,5 @@ Além da minha experiência técnica, gosto de compartilhar conhecimento com a e
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeancoppieters/)
 [![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://psnprofiles.com/jeancoppieters)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/jeancoppieters/)
-![Nintendo Switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
+[![Nintendo Switch](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)]()
 
